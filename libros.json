@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estructuras de Datos en Java",
+    "autor": "Luis Joyanes",
+    "ano": 2015,
+    "genero": "Programación"
+  },
+  {
+    "id": 2,
+    "titulo": "Inteligencia Artificial",
+    "autor": "Stuart Russell y Peter Norvig",
+    "ano": 2016,
+    "genero": "Inteligencia Artificial"
+  },
+  {
+    "id": 3,
+    "titulo": "Redes de Computadoras",
+    "autor": "Andrew Tanenbaum",
+    "ano": 2017,
+    "genero": "Redes"
+  },
+  {
+    "id": 4,
+    "titulo": "Desarrollo Web con HTML5, CSS y JavaScript",
+    "autor": "Mónica Serrano",
+    "ano": 2018,
+    "genero": "Desarrollo Web"
+  },
+  {
+    "id": 5,
+    "titulo": "Python para todos",
+    "autor": "Raúl González Duque",
+    "ano": 2019,
+    "genero": "Programación"
+  },
+  {
+    "id": 6,
+    "titulo": "Fundamentos de Bases de Datos",
+    "autor": "Héctor García-Molina",
+    "ano": 2020,
+    "genero": "Bases de Datos"
+  },
+  {
+    "id": 7,
+    "titulo": "Ingeniería de Software",
+    "autor": "Ian Sommerville",
+    "ano": 2015,
+    "genero": "Ingeniería de Software"
+  },
+  {
+    "id": 8,
+    "titulo": "Aprendizaje Profundo",
+    "autor": "Ian Goodfellow, Yoshua Bengio y Aaron Courville",
+    "ano": 2018,
+    "genero": "Inteligencia Artificial"
+  },
+  {
+    "id": 9,
+    "titulo": "Introducción a la Programación en C",
+    "autor": "Javier Pérez",
+    "ano": 2017,
+    "genero": "Programación"
+  },
+  {
+    "id": 10,
+    "titulo": "Fundamentos de Bases de Datos",
+    "autor": "García-Molina",
+    "ano": 2021,
+    "genero": "Bases de Datos"
+  }
+]
